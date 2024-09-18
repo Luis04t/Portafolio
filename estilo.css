@@ -1,0 +1,52 @@
+body{
+    background: rgb(4, 63, 82);
+}
+
+.cuadro{
+    background: white;
+    width: 800px;
+    height: 800;
+    margin-left: 270px;
+}
+
+.cuadro img{
+    background: gray;
+    padding: 5px 5px 5px 5px;
+    width: 100;
+    margin-left: 40;
+    margin-top: 20;
+}
+
+.cuadro h3{
+    margin-left: 160;
+    margin-top: -90;
+}
+
+.in h4{
+    margin-left: 640;
+    margin-top: -10;
+}
+
+.n h5{
+    margin-left: 560;
+    margin-top: -25;
+}
+
+.cuadro h2{
+    margin-left: 10;
+}
+
+.cuadro p{
+    margin-top: -20;
+    margin-left: 5;
+}
+
+.cuadro a{
+    margin-left: 10;
+    margin-top: -40;
+    text-decoration: none;
+}
+
+iframe{
+    margin-left: 10;
+}
